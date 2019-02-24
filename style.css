@@ -1,0 +1,42 @@
+button, div, form, input {
+    margin: 10px;
+      }
+.BoxDiv {
+  background-color: lightblue;
+  width: 200px;
+  height: 250px;
+  float: left;
+}
+.rating {
+  width: 200px;
+  height: 30px;
+  margin: 5px 0px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.gifImage{
+  width: 180px;
+  height: 200px;
+  margin: 0 10px;
+}
+h1{
+  font-size:65px;
+  font-family: 'Shrikhand';
+  color:gold;
+  text-align:center;
+}
+label{
+font-size:30px;
+font-family:'Shrikhand';
+color:gold;
+text-align:center;
+}
+
+button.movie{
+  color:blue;
+}
+ 
+body{  
+  background-color:darkblue;
+}
